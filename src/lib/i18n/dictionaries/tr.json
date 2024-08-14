@@ -1,0 +1,141 @@
+{
+    "Index":{
+        "title":"Merhaba Dünya!"
+    },
+    "HeaderPage":{
+        "lang":"Dil",
+        "nationality":"Milliyet",
+        "currency":"Para Birimi",
+        "apply":"Kaydet"
+    },
+    "FooterPage":{
+        "footerTitle1":"Roomify.com, çevrimiçi seyahat ve ilgili hizmetlerde dünya lideri olan SAN-TSG Inc.'in bir parçasıdır.",
+        "footerTitle2":"Telif Hakkı © 2024 Roomify.com™. Her hakkı saklıdır."
+    },
+    "HomePage":{
+        "background":"Size en uygun oteli bulun!",
+        "placeholderAuto":"Nereye gitmek istersin?",
+        "adult":"yetişkin",
+        "children":"çocuk",
+        "searchButton":"Ara",
+        "adultCount":"Yeyişkin yaşı",
+        "childrencount":"Çocuk yaşı",
+        "applyButton":"Uygula",
+        "chidRule":"0-17 yaş",
+        "childAge":"çocuğun yaşı",
+        "h":"Oteller",
+        "c":"Şehirler"
+    },
+    "HotelDetailPage":{
+        "overview":"Açıklama",
+        "rooms":"Odalar",
+        "facilities":"Otel Tesisleri",
+        "map":"Harita",
+        "reserveRoom":"Oda Rezervasyonu",
+        "free":"Ücretsiz",
+        "priced":"Ücretli",
+        "isPriced":"Ücretli Mi?"
+    },
+    "FilterPage": {
+        "filters": "Filtreler",
+        "price": "Fiyat",
+        "distance": "Denize mesafe",
+        "stars": "Yıldızlar",
+        "boards": "Pansiyonlar",
+        "themes": "Temalar",
+        "facilities": "Tesisler",
+        "searchHotel": "Otel Ara",
+        "selectAll": "Tümünü Seç"
+    },
+    "HotelListPage":{
+        "error":"Ağ Hatası",
+        "moredetails":"Daha Fazla Ayrıntı",
+        "nights":"gece",
+        "book":"Rezervasyon",
+        "alertTitle":"Üzgünüz. Otel bulunamadı"
+     },
+    "RoomsPage":{
+      "night":"Gece",
+      "checkin":"Giriş",
+      "price":"Fiyat",
+      "reserve":"Rezervasyon Yap"
+    },
+    "LoadingPage":{
+        "adults" :"yetişkin",
+        "children":"çocuk",
+        "night":"gece",
+        "searchingfor":"Aranıyor"
+   
+       },
+       "ReservationPage": {
+        "yourDeatils": "Bilgileriniz",
+        "roomDetails": "Oda Detayları",
+        "payment": "Ödeme",
+        "adultDetails": "Yetişkin Detayları",
+        "title": "Unvan",
+        "firstName": "Ad",
+        "lastName": "Soyad",
+        "gender": "Cinsiyet",
+        "nation": "Milliyet *",
+        "mr": "Bay",
+        "miss": "Bayan(bekar)",
+        "mrs": "Bayan(evli)",
+        "ms": "Bayan",
+        "female": "Kadın",
+        "male": "Erkek",
+        "contactInfo": "İletişim Bilgileri",
+        "emailAddress": "E-posta Adresi",
+        "address": "Adres",
+        "zipcode": "Posta Kodu",
+        "city": "Şehir",
+        "country": "Ülke *",
+        "passportInfo": "Pasaport Bilgileri",
+        "serialNum": "Pasaport Seri Numarası",
+        "passportNum": "Pasaport Numarası",
+        "expireDate": "Son Kullanma Tarihi *",
+        "issueDate": "Veriliş Tarihi *",
+        "next": "İleri",
+        "continue": "Devam Et",
+        "back": "Geri",
+        "childDetails": "Çocuk Detayları",
+        "infantdetails": "Bebek Detayları",
+        "paymentInfo": "Ödeme Bilgileri",
+        "cardNumber": "Kart Numarası",
+        "cardholderName": "Kart Sahibinin Adı",
+        "expirydate": "Son Kullanma Tarihi",
+        "payNow": "Şimdi Öde",
+        "bookinConfirmed": "Rezervasyon Onaylandı",
+        "deleteReservation": "Rezervasyonu Sil",
+        "finish": "Tamamla",
+        "age": "Yaş",
+        "titleError": "Unvan gerekli",
+        "nameError": "Ad gerekli",
+        "lasterror": "Soyad gerekli",
+        "genderError": "Cinsiyet gerekli",
+        "natioError": "Uyruk gerekli",
+        "emailErrorInvalid": "Geçersiz e-posta formatı",
+        "emailErrorRequire": "E-posta gerekli",
+        "phoneNumError": "Telefon numarası gerekli",
+        "addressError": "Adres gerekli",
+        "zipCodeerror": "Posta kodu gerekli",
+        "cityerror": "Şehir gerekli",
+        "countryError": "Ülke gerekli",
+        "passportSerialError": "Seri Numarası gerekli",
+        "passportNumbererror": "Pasaport numarası gerekli",
+        "expireDateError1": "Son kullanma tarihi geçerli bir tarih olmalıdır",
+        "expireDateError2": "Son kullanma tarihi gerekli",
+        "expireDateError3": "Son kullanma tarihi çıkış tarihinden önce olamaz",
+        "expireDateError4": "geçerli-tarih",
+        "expireDateError5": "Geçersiz tarih formatı. Lütfen YYYY-AA-GG formatını kullanın",
+        "isuueDateerror1": "Veriliş tarihi geçerli bir tarih olmalıdır",
+        "isuueDateerror2": "Veriliş tarihi gerekli",
+        "isuueDateerror3": "son-kullanma-tarihi",
+        "isuueDateerror4": "Veriliş tarihi son kullanma tarihinden sonra olamaz",
+        "isuueDateerror5": "geçerli-tarih",
+        "isuueDateerror6": "Geçersiz tarih formatı. Lütfen YYYY-AA-GG formatını kullanın."
+    },
+    "Message":{
+      "message":"Sonuç bulunamadı. Lütfen aramanızı yenileyin."
+    }
+    
+}
